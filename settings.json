@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    {
+      "id": "fullscreen-plugin-1.0",
+      "srcURL": "plugins/fullscreen/fullscreen.plugin.package.json",
+      "enabled": true
+    }
+  ]
+}
